@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "456728439070",
+    "firebase_url": "https://quiz-online-ucsm.firebaseio.com",
+    "project_id": "quiz-online-ucsm",
+    "storage_bucket": "quiz-online-ucsm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456728439070:android:3d6b895866ef3ef4",
+        "android_client_info": {
+          "package_name": "com.example.jksa.quizonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456728439070-a4nn3f0dktrfadrm52lbcmidfq8mvflh.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "456728439070-a4nn3f0dktrfadrm52lbcmidfq8mvflh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkATxCGr8Lc5mUoCeHUuk1s-gY7u3hH48"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Quiz Online</string>
+
+    <string name="app_name_reportar_problema">Reportar un Problema</string>
+    <string name="app_name_acerca_de">Acerca De</string>
+    <string name="app_name_registro">Crear Cuenta Nueva</string>
+
+    <string name="title_activity_main">Quiz Online UCSM</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <array name="lista_genero">
+        <item>Masculino</item>
+        <item>Femenino</item>
+    </array>
+
+    <array name="lista_roles">
+        <item>Estudiante</item>
+        <item>Docente</item>
+    </array>
+
+    <array name="lista_tipo_pregunta">
+        <item>Verdadero Falso</item>
+        <item>Respuesta Simple</item>
+        <item>Seleccion Simple</item>
+        <item>Seleccion Multiple</item>
+    </array>
+</resources>
